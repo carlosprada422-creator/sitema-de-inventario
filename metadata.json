@@ -1,0 +1,11 @@
+{
+  "name": "Distribuidora García - Sistema de Inventario Agrícola",
+  "description": "Sistema integral de inventario en tiempo real, alertas de stock bajo, escáner de códigos QR y barras, y reportes de consumo agrícola.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
